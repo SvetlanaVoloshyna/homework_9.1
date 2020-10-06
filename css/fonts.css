@@ -1,0 +1,14 @@
+@font-face{
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Playfair Display");
+    src: url("../fonts/Playfair_Display/static/PlayfairDisplay-Regular.ttf");
+}
+@font-face{
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 300;
+    src: local("Lato");
+    src: url("../fonts/Lato/Lato-Regular.ttf");
+}
